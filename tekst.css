@@ -50,3 +50,8 @@ a {
   color: black;
 
 }
+
+/* code below changes color of a hyperlink to red when you hover over it*/
+a:hover{
+  color: red;
+}
